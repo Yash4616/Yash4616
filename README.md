@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yash4616
-- 👀 I’m interested in Python,C++
+- 👀 I’m interested in Python,C andC++
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects to improve my skills
 - 📫 How to reach me www.linkedin.com/in/yash-gurjar-61aa6a286
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: apart from being a tech wizard, i like to watch movies and click pictures.
+- ⚡ Fun fact: apart from being a tech wizard, i like to watch movies and capture moments.
