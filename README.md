@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Yash4616
-- 👀 I’m interested in Python,C, C++ amd Java.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on projects to improve my skills
-- 📫 How to reach me www.linkedin.com/in/yash-gurjar-61aa6a286
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: apart from being a tech wizard, i like to watch movies and capture moments.
+- 👋 Hi, I’m @Yash4616 aka Yash.
+- 👀 I’m passionate about Python, C, C++, and exploring new tech.
+- 🌱 Currently diving into AI and machine learning projects!
+- 💞️ I’m looking to collaborate on projects to improve my skills.
+- 📫 How to reach me www.linkedin.com/in/yash-gurjar-61aa6a286.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: In addition to my interest in technology, I enjoy watching movies and capturing moments.
