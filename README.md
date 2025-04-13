@@ -78,7 +78,7 @@ I'm actively seeking research and development partnerships in:
 ## 📫 Connect & Collaborate
 
 - **LinkedIn:** [linkedin.com/in/yashgurjar9](https://linkedin.com/in/yashgurjar9)
-- **Email:** [your-email@domain.com](mailto:yashgurjar9714@gmail.com)
+- **Email:** [yashgurjar9714@gmail.com](mailto:yashgurjar9714@gmail.com)
 
 ---
 
