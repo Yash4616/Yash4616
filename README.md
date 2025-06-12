@@ -12,10 +12,9 @@ Transforming complex problems into elegant AI solutions. Full ML lifecycle exper
 
 ### 🛠️ Tech Stack
 **Core:** Python • TensorFlow • PyTorch • Scikit-learn  
-**NLP:** Hugging Face • NLTK • spaCy  
+**NLP:** Hugging Face • NLTK 
 **Vision:** OpenCV • PIL  
-**MLOps:** Docker • AWS/GCP • Git  
-**Viz:** Plotly • Tableau • Seaborn  
+**MLOps:** Docker • AWS/GCP • Git 
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash4616&show_icons=true&theme=radical&hide_border=true)
