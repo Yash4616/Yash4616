@@ -21,7 +21,6 @@ Transforming complex problems into elegant AI solutions. Full ML lifecycle exper
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash4616&layout=compact&theme=radical&hide_border=true)
 
 ### 🤝 Let's Collaborate
-Open to partnerships in **Robotics**, **Computer Vision**, and **NLP Research**
 
 📧 [yashgurjar9714@gmail.com](mailto:yashgurjar9714@gmail.com)
 
