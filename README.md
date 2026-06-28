@@ -6,7 +6,7 @@ Final-year CS undergrad. I'd rather write the tokenizer than import it — most 
 
 **CodeNeuron** — a deployed ML platform I co-built. I own the backend, the execution isolation, and the cloud infra: FastAPI, Postgres, Docker, Cloud Run, CI/CD.
 
-**Vision** — object detection and segmentation, in PyTorch and Tensorflow.
+**Vision** — object detection and segmentation, PyTorch.
 
 Next: a RAG system built around evaluation rather than the demo — hybrid retrieval, grounded citations, and an eval harness that actually measures whether it works.
 
@@ -14,4 +14,4 @@ Next: a RAG system built around evaluation rather than the demo — hybrid retri
 
 [LinkedIn](https://linkedin.com/in/yashgurjar9) · [Email](mailto:yashgurjar9714@gmail.com)
 
-*Film photography between training runs.*
+*Cinema between training runs.*
