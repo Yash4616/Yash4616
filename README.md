@@ -4,7 +4,7 @@ Final-year CS undergrad. I'd rather write the tokenizer than import it — most 
 
 **[tokenizer](https://github.com/Yash4616/tokenizer)** — a BPE tokenizer in Rust with Python bindings, built to match OpenAI's tiktoken on `cl100k_base` / `o200k_base` and run faster.
 
-**CodeNeuron** — a deployed ML platform I co-built. I own the backend, the execution isolation, and the cloud infra: FastAPI, Postgres, Docker, Cloud Run, CI/CD.
+**CodeNeuron** — a deployed ML platform I co-built. I own the execution isolation, and the cloud infra: FastAPI, Postgres, Docker, Cloud Run, CI/CD.
 
 **Vision** — object detection and segmentation, PyTorch.
 
@@ -15,3 +15,6 @@ Next: a RAG system built around evaluation rather than the demo — hybrid retri
 [LinkedIn](https://linkedin.com/in/yashgurjar9) · [Email](mailto:yashgurjar9714@gmail.com)
 
 *Cinema between training runs.*
+
+
+![](https://komarev.com/ghpvc/?username=yash4616&color=blue)
